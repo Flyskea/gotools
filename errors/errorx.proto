@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-package errors;
+package errorx;
 
-option go_package = "github.com/Flyskea/gotools/errors;errors";
+option go_package = "github.com/Flyskea/gotools/errorx;errors";
 
 import "google/protobuf/descriptor.proto";
 
