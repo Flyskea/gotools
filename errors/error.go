@@ -9,7 +9,7 @@ import (
 	"google.golang.org/genproto/googleapis/rpc/errdetails"
 	"google.golang.org/grpc/status"
 
-	mystatus "github.com/Flyskea/gotools/status"
+	mystatus "github.com/flyskea/gotools/status"
 )
 
 const (
