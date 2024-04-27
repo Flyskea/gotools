@@ -1,4 +1,4 @@
-module github.com/Flyskea/gotools
+module github.com/flyskea/gotools
 
 go 1.19
 
